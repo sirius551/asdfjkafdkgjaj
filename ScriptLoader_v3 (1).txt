@@ -1,10 +1,4 @@
---[[
-    Script Loader v3
-    Улучшенное меню: новый экран загрузки, переключатели/слайдеры, поиск,
-    уведомления, сохранение настроек, кастомная тема, горячая клавиша, FPS/Ping.
-]]
 
--- ==================== СЕРВИСЫ ====================
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local UIS = game:GetService("UserInputService")
